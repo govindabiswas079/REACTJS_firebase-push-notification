@@ -1,0 +1,6 @@
+{
+  "appId": "com.courses.app",
+  "appName": "courses",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
